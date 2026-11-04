@@ -1,0 +1,36 @@
+{
+  "subjectPrefix": "QA-AUTO",
+  "incident": {
+    "description": "Automated test ticket - safe to close. Created by OpsDesk QA automation.",
+    "fields": { "Environment": "Production", "Error message": "HTTP 500 on /checkout" }
+  },
+  "serviceRequest": {
+    "description": "Automated test service request - safe to close.",
+    "fields": {}
+  },
+  "change": {
+    "description": "Automated change draft - safe to close.",
+    "fields": {
+      "Change type": "Normal",
+      "Risk": "Low",
+      "Back-out plan": "Redeploy previous release",
+      "Implementation window": "2026-12-01 10:00",
+      "Outcome": "Successful"
+    }
+  },
+  "resolution": {
+    "code": "Fixed",
+    "notes": "Root cause identified and fixed by QA automation."
+  },
+  "routing": {
+    "_comment": "From the live build: automation rule 'AI systems go to AI/ML ops'; the employee (Sakthibalaji M) is a member of AI/ML ops.",
+    "routedCategory": "AI / ML / Model drift / accuracy",
+    "routedTeam": "AI/ML ops",
+    "employeeTeam": "AI/ML ops"
+  },
+  "staffTicketAccount": "Globex Retail",
+  "xssPayload": "<img src=x onerror=alert(1)>",
+  "kbSearchTerm": "password reset",
+  "loadBudgetMs": 3000,
+  "attachmentFile": "fixture/files/sample-attachment.txt"
+}

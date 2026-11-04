@@ -1,0 +1,28 @@
+{
+  "name": "opsdesk-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OpsDesk UI automation — Playwright + Cucumber BDD (TypeScript). Scenario tags map to deliverables/OpsDesk_Test_Design_RTM.xlsx",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:smoke": "cucumber-js --tags \"@smoke\"",
+    "test:tc": "cucumber-js --tags",
+    "test:firefox": "cross-env BROWSER=firefox cucumber-js --tags \"@smoke\"",
+    "test:edge": "cross-env BROWSER=msedge cucumber-js --tags \"@smoke\"",
+    "test:headed": "cross-env HEADLESS=false cucumber-js",
+    "dry-run": "cucumber-js --dry-run",
+    "typecheck": "tsc --noEmit",
+    "install-browsers": "playwright install chromium firefox",
+    "qa-reports": "python ../reporting/generate_reports.py --results reports/cucumber.json"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "10.8.0",
+    "@playwright/test": "1.48.2",
+    "@types/node": "20.17.6",
+    "cross-env": "7.0.3",
+    "dotenv": "16.4.5",
+    "playwright": "1.48.2",
+    "ts-node": "10.9.2",
+    "typescript": "5.6.3"
+  }
+}

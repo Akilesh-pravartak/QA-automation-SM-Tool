@@ -1,0 +1,23 @@
+{
+  "_comment": "Role -> account, by the role the server actually issues (JWT 'role' claim, verified 30-Oct-2026). Passwords come from OPSDESK_PASSWORD (or OPSDESK_<ROLE>_PASSWORD) in .env. Leave email empty for roles without a credential - their scenarios are skipped. NOTE: the credential list supplied to QA labelled sakthibalaji.m as 'Customer' and saraswathi.karunanidhi as 'Agent'; their real roles are employee and team_lead.",
+  "customer": {
+    "email": "",
+    "displayName": ""
+  },
+  "employee": {
+    "email": "sakthibalaji.m@iitmpravartak.net",
+    "displayName": "Sakthibalaji M"
+  },
+  "teamlead": {
+    "email": "saraswathi.karunanidhi@iitmpravartak.net",
+    "displayName": "Saraswathi Karunanidhi"
+  },
+  "manager": {
+    "email": "sivasrigananapathi.sundaram@iitmpravartak.net",
+    "displayName": "Sivasrigananapathi Sundaram"
+  },
+  "superadmin": {
+    "email": "",
+    "displayName": ""
+  }
+}

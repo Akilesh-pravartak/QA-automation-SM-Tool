@@ -1,0 +1,212 @@
+{
+  "TC-AUTH-002": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-AUTH-003": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-AUTH-004": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-AUTH-005": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-AUTH-006": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-AUTH-008": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-AUTH-009": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-AUTH-011": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-RBAC-003": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "DEF-013",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-RBAC-005": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-RBAC-012": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "DEF-013",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-TKT-004": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-TKT-005": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-TKT-007": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-TKT-010": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-AUD-005": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-DSH-001": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-DSH-002": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-DSH-003": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-DSH-004": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-DSH-005": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-DSH-006": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-RPT-001": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-RPT-002": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-RPT-003": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-RPT-004": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-NFR-001": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-NFR-002": {
+    "status": "Fail",
+    "actual": "Then the employee session cookie is Secure and HttpOnly: Error: expect(received).toEqual(expected) // deep equality",
+    "defect": "DEF-011",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-NFR-003": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  },
+  "TC-NFR-004": {
+    "status": "Pass",
+    "actual": "As expected (automated)",
+    "defect": "",
+    "executed_by": "Automation",
+    "date": "30-Oct-2026 16:39"
+  }
+}

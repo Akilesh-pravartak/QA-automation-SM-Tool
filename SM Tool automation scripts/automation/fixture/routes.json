@@ -1,0 +1,15 @@
+{
+  "_comment": "Direct URLs, confirmed against the live build on 30-Oct-2026. Exports live on the Dashboard (no separate Reports page). Non-admins opening /admin are shown a ticket queue at the same URL, so denial is detected by the absence of admin content (see modal/common/common.data.ts routeMarkers).",
+  "login": "/",
+  "dashboard": "/dashboard",
+  "tickets": "/tickets?view=open",
+  "unassigned": "/tickets?view=unassigned",
+  "mine": "/tickets?view=mine",
+  "newTicket": "/new",
+  "newChange": "/new",
+  "reports": "/dashboard",
+  "knowledgeBase": "/kb",
+  "admin": "/admin",
+  "adminUsers": "/admin/users",
+  "auditLog": "/admin/audit"
+}
